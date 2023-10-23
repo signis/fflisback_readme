@@ -22,7 +22,7 @@
 5. Partnerkomanda nevar piedalīties tieši vai netieši transfēros ar pamatkomandu. 
 6. Partnerkomandu var iegūt jebkura komanda ar vadītāju, piesakoties pēc pirmās rokas principa uz komandu bez vadītāja un bez pamatkomandas. 
 7. Partnerkomandu var zaudēt ar Valdes lēmumu par noteikumu pārkāpšanu vai citādiem pārkāpumiem.
-8. Komandas vadītājs vienu reizi sezonā var mainīt nosaukumu, logo un pārstāvēto valsti, izmantojot 2 `rir:Football`(bumbas) . Komandas nosaukumu var mainīt uz futbolā esošas komandas nosaukumu. Komandas saīsinājumu nevar mainīt. 
+8. Komandas vadītājs vienu reizi sezonā var mainīt nosaukumu, logo un pārstāvēto valsti, izmantojot 2 bumbas. Komandas nosaukumu var mainīt uz futbolā esošas komandas nosaukumu. Komandas saīsinājumu nevar mainīt. 
 
 ## 2. Kods
 1. FFL spēles, spēlētāju attīstību un citus FFL notikumus pārvalda FFL kods.
