@@ -1,5 +1,4 @@
-
-## Kas ir FFL?
+# Kas ir FFL?
 - Futbols - tavs uzdevums ir izkārtot spēlētājus laukumā pirms spēles un baudīt futbolu.
 - Turnīri - regulārais turnīrs ar sezonas beigās trofejas iegūšanu vai izkrišanu uz zemāku līgu, dažādi kausi ar labām naudas prēmijām, draudzības spēles vai pat piedalīšanās Pasaules čempionātā, vadot kādu no FFL izlasēm.
 - Līgumi - pārslēgt līgumus, izpirkt spēlētājus un varbūt pat pārvilināt spēlētājus ar labāku algu uz savu komandu.
