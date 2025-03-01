@@ -44,6 +44,7 @@
 3. Komandas
 	1. Jebkurš komandas vadītājs var ieteikt izmaiņas FFL kodā, noteikumos un jebkurā citā jautājumā.
 
+#spēlētājs
 ## 5. Spēlētājs
 1. Spēlētājam ir fiziskie raksturlielumi - vecums, spēles skili, agresivitāte un abl daudzums, finanšu raksturlielumi - vērība, pašreizējā alga, mainīgā alga, līgums un līguma termiņš, vispārīgie raksturlielumi - vārds, nacionalitāte, dzimšanas diena.
 2. Spēlētājs var būt noslēdzis līgumu ar komandu, atrasties nespēlējošo spēlētāju sarakstā (old) vai drīz spēlējošo spēlētāju sarakstā (ffl).
@@ -87,7 +88,7 @@
 4. Kausu finālos prēmijas tiek izmaksātas savādāk - uzvarētājs saņem 5milj, zaudētājs 2.5milj.
 5. Sezonas beigās komandas kas paceļas līgu augstāk saņem papildus prēmiju - 1. vieta 5milj., 2. vieta 3milj., 3.vieta 2milj.
 ### Izdevumi
-1. Iknedēļu sezonas laikā spēlētājiem tiek maksātas algas, kas ir spēlētāja līgumā notiktas. Sīkāk par spēlētāja algām sadaļā Spēlētājs(#5-spēlētājs)
+1. Iknedēļu sezonas laikā spēlētājiem tiek maksātas algas, kas ir spēlētāja līgumā notiktas. Sīkāk par spēlētāja algām sadaļā [Spēlētājs](#spēlētājs)
 2. Transfēru darījumi (izsoles) tiek aplikti ar nodokli. Sīkāk par šiem nodokļiem sadaļā Transfēri(#7-transfēri)
 ### Finanšu disciplīna
 1. Komandai, kura atrodas mīnusos, kas ir lielāki par komandas spēlētāju kopējo algu, ilgāk par desmit dienām, tiek atņemtas tiesības uz spēlētāju ar lielāko algu. 
