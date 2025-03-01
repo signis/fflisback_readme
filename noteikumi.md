@@ -73,3 +73,24 @@
 ## 6. Spēle
 ## 7. Transfēri
 ## 8. Turnīri
+## 9. Finanses
+### Vispārējie noteikumi
+1. Komandas vadītājs ir atbildīgs par komandas finansēm, konta atlikumu un finanšu noteikumu neievērošanu
+2. Komansas finanses var apskatīt kopējā komandu sarakstā https://fflisback.lv/cms/lv/komandas, kā arī katras komandas lapā ar izvērstu pēdējā laika finanšu plūsmu.
+3. Komandas finasnes veido:
+	1. ienākumi: regulārie iknedēļas ienākumu sezonas laikā, kausu ienākumi un prēmijas, līgas maiņas ienākums, transfēru darījumi
+	2. izdevumi: spēlētāju algas, transfēru izdevumi (izsoles, nodokļi, maksa par spēlētājiem)
+### Ienākumi
+1. Iknedēļas regulārais ienākums komandai ir atkarīgs no līgas kurā tā spēlē (augstākā līgā lielāki ienākumi) un konkrētā nedēļas panākumiem (officiālo spēļu). Komandai ar vienādu līgu un nedēļas rezultātu (piem. 2 uzvaras 2 spēlēs) ir vienāds ienākums, bet to katrā konkrētā nedēļā modificē ar +/-15%
+2. Kausu ienākums veido dalība spēlē (0.5milj) un prēmija par izcīnīto punktu (0.25milj.). Piem. par uzvaru komanda nopelna 0.5milj+3*0.25milj.
+3. Automātiski pārvarētās kārtas prēmijas tiek izmaksātas pirms tām, bet pārējais tiek izmaksāts pēc spēļu kārtas. Piem. grupu turnīra gadījumā, prēmijas tiek izmaksātas, kad grupu turnīrs noslēdzas.
+4. Kausu finālos prēmijas tiek izmaksātas savādāk - uzvarētājs saņem 5milj, zaudētājs 2.5milj.
+5. Sezonas beigās komandas kas paceļas līgu augstāk saņem papildus prēmiju - 1. vieta 5milj., 2. vieta 3milj., 3.vieta 2milj.
+### Izdevumi
+1. Iknedēļu sezonas laikā spēlētājiem tiek maksātas algas, kas ir spēlētāja līgumā notiktas. Sīkāk par spēlētāja algām sadaļā Spēlētājs
+2. Transfēru darījumi (izsoles) tiek aplikti ar nodokli. Sīkāk par šiem nodokļiem sadaļā Transfēri
+### Finanšu disciplīna
+1. Komandai, kura atrodas mīnusos, kas ir lielāki par komandas spēlētāju kopējo algu, ilgāk par desmit dienām, tiek atņemtas tiesības uz spēlētāju ar lielāko algu. 
+2. Šis spēlētājs bez kompensācijas komandai pamet komandu nonāk FFL izsolē. Līgas vadība patur tiesības noteikt šī spēlētāja līguma termiņu un algas izmēru atkarībā no situācijas FFL spēlētāju tirgū. 
+3. Komandai tiek dotas vēl desmit dienas, finanšu situācijas sakārtošanai.
+
