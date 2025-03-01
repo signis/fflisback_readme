@@ -87,8 +87,8 @@
 4. Kausu finālos prēmijas tiek izmaksātas savādāk - uzvarētājs saņem 5milj, zaudētājs 2.5milj.
 5. Sezonas beigās komandas kas paceļas līgu augstāk saņem papildus prēmiju - 1. vieta 5milj., 2. vieta 3milj., 3.vieta 2milj.
 ### Izdevumi
-1. Iknedēļu sezonas laikā spēlētājiem tiek maksātas algas, kas ir spēlētāja līgumā notiktas. Sīkāk par spēlētāja algām sadaļā Spēlētājs
-2. Transfēru darījumi (izsoles) tiek aplikti ar nodokli. Sīkāk par šiem nodokļiem sadaļā Transfēri
+1. Iknedēļu sezonas laikā spēlētājiem tiek maksātas algas, kas ir spēlētāja līgumā notiktas. Sīkāk par spēlētāja algām sadaļā Spēlētājs(#5-spēlētājs)
+2. Transfēru darījumi (izsoles) tiek aplikti ar nodokli. Sīkāk par šiem nodokļiem sadaļā Transfēri(#7-transfēri)
 ### Finanšu disciplīna
 1. Komandai, kura atrodas mīnusos, kas ir lielāki par komandas spēlētāju kopējo algu, ilgāk par desmit dienām, tiek atņemtas tiesības uz spēlētāju ar lielāko algu. 
 2. Šis spēlētājs bez kompensācijas komandai pamet komandu nonāk FFL izsolē. Līgas vadība patur tiesības noteikt šī spēlētāja līguma termiņu un algas izmēru atkarībā no situācijas FFL spēlētāju tirgū. 
